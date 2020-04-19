@@ -1,0 +1,9 @@
+.parent-wrapper{
+    min-height: 100vh;
+    display: flex;    
+    flex-direction: row;
+    background-color: greenyellow;
+    .child-wrapper{
+        margin: 0 auto;
+    }
+}
